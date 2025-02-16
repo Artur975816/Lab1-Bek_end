@@ -28,4 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-Test_Ignbor.java
+
+/src/Test_Ignor.java

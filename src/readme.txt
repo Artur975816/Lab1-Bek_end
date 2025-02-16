@@ -1,0 +1,1 @@
+о боже какой git я хочу от тебя branch и commit и commit и commit
